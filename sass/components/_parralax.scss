@@ -1,0 +1,12 @@
+#parallax-container {
+  display: block;
+  height: 750px;
+  & div {
+    position: fixed;
+    top: 0;
+    background-position: center !important;
+    transform: translateY(0px);
+    height: 750px;
+    width: 100%;
+  }
+}
