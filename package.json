@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/huntertrammell/MarsDemo#readme",
   "dependencies": {
-    "npm": "^6.9.0"
+    "npm": "^6.14.6"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
